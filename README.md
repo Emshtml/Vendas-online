@@ -14,7 +14,7 @@ Esta é uma página de vendas simples e responsiva criada com HTML e CSS puro. I
 
 Você pode ver esta página publicada via **GitHub Pages**:
 
-[https://seu-usuario.github.io/pagina-vendas/](https://seu-usuario.github.io/pagina-vendas/)
+[https://Emshtml.github.io/pagina-vendas/](https://Emshtml.github.io/pagina-vendas/)
 
 > Substitua `seu-usuario` pelo seu nome de usuário do GitHub.
 
