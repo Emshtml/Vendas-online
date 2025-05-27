@@ -16,14 +16,4 @@ Você pode ver esta página publicada via **GitHub Pages**:
 
 [https://Emshtml.github.io/pagina-vendas/](https://Emshtml.github.io/pagina-vendas/)
 
-> Substitua `seu-usuario` pelo seu nome de usuário do GitHub.
 
-## Como usar
-
-1. Faça um fork ou clone deste repositório.
-2. Edite o arquivo `index.html` com as informações do seu produto.
-3. Ative o GitHub Pages no repositório (em "Settings" > "Pages").
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
